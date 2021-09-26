@@ -1,3 +1,7 @@
+//Looge programmis N elemendiga massiiv ning trükkige see välja. Seejärel vahetage massiivi väärtuste järjekord vastupidiseks (käsitsi ilma Reverse() funktsiooni kasutamata). Trükkige tulemus välja
+
+
+
 var arvud = new int[] {1, 5, 7, 9, 6, 2, 4};
 Console.WriteLine(arvud);
 
