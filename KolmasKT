@@ -1,0 +1,28 @@
+//Looge list, laske kasutajal selle väärtused sisestada (kui enam ei soovi, siis sisestada tühi rida). Trükkige välja kõik väärtused, mida on topelt
+
+var numbrid = new List<int>() { };
+var arvud = new List<int>() { };
+Console.WriteLine("Sisesta positiivne täisarv. Lõpetuseks sisesta tühik. Sisestamiseks vajuta enter!");
+string sisestus = Console.ReadLine();
+while (sisestus != " "){
+int arv = Convert.ToInt32(sisestus);
+if (arv >= 0)
+{Console.WriteLine("Sisestatud number on: " + arv);}
+bool uus = numbrid.Contains(arv);
+bool vana = arvud.Contains(arv);
+if (uus == true && vana == false){
+    arvud.Add(arv);}
+numbrid.Add(arv);
+Console.WriteLine("Sisesta positiivne täisarv. Lõpetuseks sisesta tühik. Sisestamiseks vajuta enter!");
+sisestus = Console.ReadLine();
+
+}
+while (sisestus == " "){
+Console.WriteLine("Sisestamine on lõpetatud");
+break;
+}
+
+Console.WriteLine("Sisestatud numbrid on: ");
+Console.WriteLine(numbrid);
+Console.WriteLine("Topelt sisestatud arvud on: ");
+Console.WriteLine(arvud);
