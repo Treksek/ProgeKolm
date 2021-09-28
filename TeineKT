@@ -1,3 +1,5 @@
+//Looge 2-mõõtmeline maatriks, algväärtustage see ning trükkige välja kõik väärtused ridade kaupa (iga väärtus eraldi väljundi real)
+
 int[,] maatriks = new int[2, 5] 
 { 
   { 0, 1, 2, 3, 4 }, 
