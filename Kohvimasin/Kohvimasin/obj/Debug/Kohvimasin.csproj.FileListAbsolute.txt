@@ -1,8 +1,0 @@
-C:\Users\AinTo\OneDrive\Töölaud\12 GB TÄDI UUED TÄHTSAD ASJAD 13.03.21\ProgeKolm\Kohvimasin\Kohvimasin\obj\Debug\Kohvimasin.csproj.AssemblyReference.cache
-C:\Users\AinTo\OneDrive\Töölaud\12 GB TÄDI UUED TÄHTSAD ASJAD 13.03.21\ProgeKolm\Kohvimasin\Kohvimasin\obj\Debug\Kohvimasin.csproj.SuggestedBindingRedirects.cache
-C:\Users\AinTo\OneDrive\Töölaud\12 GB TÄDI UUED TÄHTSAD ASJAD 13.03.21\ProgeKolm\Kohvimasin\Kohvimasin\obj\Debug\Kohvimasin.csproj.CoreCompileInputs.cache
-C:\Users\AinTo\OneDrive\Töölaud\12 GB TÄDI UUED TÄHTSAD ASJAD 13.03.21\ProgeKolm\Kohvimasin\Kohvimasin\bin\Debug\Kohvimasin.exe.config
-C:\Users\AinTo\OneDrive\Töölaud\12 GB TÄDI UUED TÄHTSAD ASJAD 13.03.21\ProgeKolm\Kohvimasin\Kohvimasin\bin\Debug\Kohvimasin.exe
-C:\Users\AinTo\OneDrive\Töölaud\12 GB TÄDI UUED TÄHTSAD ASJAD 13.03.21\ProgeKolm\Kohvimasin\Kohvimasin\bin\Debug\Kohvimasin.pdb
-C:\Users\AinTo\OneDrive\Töölaud\12 GB TÄDI UUED TÄHTSAD ASJAD 13.03.21\ProgeKolm\Kohvimasin\Kohvimasin\obj\Debug\Kohvimasin.exe
-C:\Users\AinTo\OneDrive\Töölaud\12 GB TÄDI UUED TÄHTSAD ASJAD 13.03.21\ProgeKolm\Kohvimasin\Kohvimasin\obj\Debug\Kohvimasin.pdb
